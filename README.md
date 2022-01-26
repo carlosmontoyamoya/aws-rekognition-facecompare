@@ -1,7 +1,7 @@
 # aws-rekognition-facecompare
 This repository compare a selfie with images from identity documents and response if the selfie match.
 
-This code was made in a notebook under SageMaker.
+This code was made in a Python Notebook under SageMaker.
 
 ### Set up:
 > - Create a Notebook Instance in SageMaker
